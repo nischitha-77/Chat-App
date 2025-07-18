@@ -34,7 +34,7 @@ How to Run:
 6. To exit the chat, type '/exit' in the client terminal.
 
 Technologies Used:
-- Python 3.x
+- Python 
 - Socket programming using TCP
 - Multi-threading for handling concurrent clients
 - Basic terminal input/output
